@@ -5,10 +5,10 @@
 - type: gameMap
   id: InterdyneStation
   mapName: 'Interdyne Pharmaceuticals'
-  mapPath: /Maps/arena.yml
+  mapPath: /Maps/_Nova/Stations/interdyne.yml
   minPlayers: 0
   stations:
-    Arena: # Must match BecomesStation id in the map file
+    InterdyneMain: # Must match BecomesStation id in the map file
       stationProto: StandardInterdyneStation
       components:
         - type: StationNameSetup
