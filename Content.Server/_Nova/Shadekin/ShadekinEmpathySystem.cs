@@ -15,7 +15,7 @@ namespace Content.Server._Nova.Shadekin;
 /// <summary>
 /// Handles Shadekin empathic communication — a short-range telepathic chat
 /// that only other Shadekin with ShadekinEmpathyComponent can hear.
-/// Shadekin whispers are automatically broadcast as empathic messages to nearby Shadekin.
+/// Shadekin whispers are automatically broadcast as empathic messages to nearby Shadekin
 /// </summary>
 public sealed class ShadekinEmpathySystem : EntitySystem
 {
