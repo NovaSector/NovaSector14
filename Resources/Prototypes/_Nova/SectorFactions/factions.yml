@@ -1,0 +1,9 @@
+# Sector faction definitions
+# Each enabled faction gets its station map loaded at round start
+
+- type: sectorFaction
+  id: Interdyne
+  name: sector-faction-interdyne
+  gameMap: InterdyneStation
+  color: "#22AA22"
+  enabled: true
