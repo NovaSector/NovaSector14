@@ -1,0 +1,22 @@
+# Nova - Sector faction NPC factions
+# These control AI hostility for faction station NPCs/turrets
+
+- type: npcFaction
+  id: Interdyne
+  hostile:
+  - SimpleHostile
+  - Xeno
+  - Zombie
+  - Dragon
+  - AllHostile
+  - Wizard
+
+- type: npcFaction
+  id: Tarkon
+  hostile:
+  - SimpleHostile
+  - Xeno
+  - Zombie
+  - Dragon
+  - AllHostile
+  - Wizard

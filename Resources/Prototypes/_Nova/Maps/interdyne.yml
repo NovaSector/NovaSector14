@@ -1,0 +1,24 @@
+# Interdyne Pharmaceuticals station map
+# Loaded automatically by SectorFactionSystem at round start
+# Using arena.yml as a PoC placeholder — replace with custom map later
+
+- type: gameMap
+  id: InterdyneStation
+  mapName: 'Interdyne Pharmaceuticals'
+  mapPath: /Maps/_Nova/Stations/interdyne.yml
+  minPlayers: 0
+  stations:
+    InterdyneMain: # Must match BecomesStation id in the map file
+      stationProto: StandardInterdyneStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: 'Interdyne Pharmaceuticals {0}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'IP'
+        - type: StationJobs
+          availableJobs:
+            InterdyneDirector: [ 1, 1 ]
+            InterdyneResearcher: [ 3, 5 ]
+            InterdyneSecurity: [ 1, 2 ]
+            InterdyneAssistant: [ -1, -1 ]

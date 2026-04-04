@@ -1,0 +1,88 @@
+# Interdyne Pharmaceuticals jobs
+
+- type: job
+  id: InterdyneDirector
+  name: job-name-interdyne-director
+  description: job-description-interdyne-director
+  playTimeTracker: JobInterdyneDirector
+  weight: 20
+  startingGear: InterdyneDirectorGear
+  icon: "JobIconResearchDirector"
+  supervisors: job-supervisors-interdyne-corporate
+  canBeAntag: false
+  accessGroups:
+  - AllAccess
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant ]
+  - !type:AddComponentSpecial
+    components:
+      - type: CommandStaff
+
+- type: startingGear
+  id: InterdyneDirectorGear
+  equipment:
+    ears: ClothingHeadsetScience
+
+- type: job
+  id: InterdyneResearcher
+  name: job-name-interdyne-researcher
+  description: job-description-interdyne-researcher
+  playTimeTracker: JobInterdyneResearcher
+  startingGear: InterdyneResearcherGear
+  icon: "JobIconScientist"
+  supervisors: job-supervisors-interdyne-director
+  access:
+  - Research
+  - Medical
+  - Chemistry
+  - Maintenance
+
+- type: startingGear
+  id: InterdyneResearcherGear
+  equipment:
+    ears: ClothingHeadsetScience
+
+- type: job
+  id: InterdyneSecurity
+  name: job-name-interdyne-security
+  description: job-description-interdyne-security
+  playTimeTracker: JobInterdyneSecurity
+  startingGear: InterdyneSecurityGear
+  icon: "JobIconSecurityOfficer"
+  supervisors: job-supervisors-interdyne-director
+  access:
+  - Security
+  - Maintenance
+
+- type: startingGear
+  id: InterdyneSecurityGear
+  equipment:
+    ears: ClothingHeadsetSecurity
+
+- type: job
+  id: InterdyneAssistant
+  name: job-name-interdyne-assistant
+  description: job-description-interdyne-assistant
+  playTimeTracker: JobInterdyneAssistant
+  startingGear: InterdyneAssistantGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-everyone
+  access:
+  - Maintenance
+
+- type: startingGear
+  id: InterdyneAssistantGear
+  equipment:
+    ears: ClothingHeadsetGrey
+
+- type: department
+  id: Interdyne
+  name: department-Interdyne
+  description: department-Interdyne-description
+  color: "#22AA22"
+  roles:
+  - InterdyneDirector
+  - InterdyneResearcher
+  - InterdyneSecurity
+  - InterdyneAssistant

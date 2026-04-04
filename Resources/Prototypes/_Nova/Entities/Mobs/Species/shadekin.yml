@@ -104,7 +104,6 @@
         Slash: 3
   - type: Perishable
   - type: Damageable
-    damageModifierSet: Biological
   - type: Temperature
     heatDamageThreshold: 325
     coldDamageThreshold: 200 # shadow creatures handle cold well

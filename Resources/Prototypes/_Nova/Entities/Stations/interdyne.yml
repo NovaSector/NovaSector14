@@ -1,0 +1,26 @@
+# Interdyne Pharmaceuticals station entity prototype
+# Lighter than NT station — no evacuation, centcomm, or arrivals
+
+- type: entity
+  abstract: true
+  id: BaseStationInterdyne
+  components:
+    - type: NpcFactionMember
+      factions:
+        - Interdyne
+    - type: SectorFaction
+      faction: Interdyne
+
+- type: entity
+  id: StandardInterdyneStation
+  parent:
+    - BaseStation
+    - BaseStationCargo
+    - BaseStationJobsSpawning
+    - BaseStationRecords
+    - BaseStationAlertLevels
+    - BaseStationAllEventsEligible
+    - BaseStationInterdyne
+  categories: [ HideSpawnMenu ]
+  components:
+    - type: Transform

@@ -1,0 +1,1027 @@
+- type: marking
+  id: NovaEarAntennaFuzzball
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_fuzzball_secondary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_fuzzball_tertiary
+
+- type: marking
+  id: NovaEarAntennaFuzzballv2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_fuzzballv2_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_fuzzballv2_secondary
+
+- type: marking
+  id: NovaEarAntennaSimple1
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_simple1_primary
+
+- type: marking
+  id: NovaEarAntennaSimple1v2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_simple1v2_primary
+
+- type: marking
+  id: NovaEarAntennaSimple2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_simple2_primary
+
+- type: marking
+  id: NovaEarAntennaSimple2v2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: antenna_simple2v2_primary
+
+- type: marking
+  id: NovaEarAxolotl
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: axolotl
+
+- type: marking
+  id: NovaEarBasicAntenna
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: basic_antenna
+
+- type: marking
+  id: NovaEarBat
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bat_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bat_ADJ_secondary
+
+- type: marking
+  id: NovaEarBear
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bear
+
+- type: marking
+  id: NovaEarBigAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: big_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarBigwolf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bigwolf_FRONT_secondary
+
+- type: marking
+  id: NovaEarBigwolfdark
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bigwolfdark_FRONT_secondary
+
+- type: marking
+  id: NovaEarBigwolfinner
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bigwolfinner
+
+- type: marking
+  id: NovaEarBigwolfinnerdark
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bigwolfinnerdark
+
+- type: marking
+  id: NovaEarBunny
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bunny_ADJ_secondary
+
+- type: marking
+  id: NovaEarBunnyalt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bunnyalt_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: bunnyalt_secondary
+
+- type: marking
+  id: NovaEarCatAlert
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cat_alert_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cat_alert_secondary
+
+- type: marking
+  id: NovaEarCatAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cat_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarCatAltUnderhair
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cat_alt_underhair_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cat_alt_underhair_secondary
+
+- type: marking
+  id: NovaEarCobraears
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cobraears_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cobraears_ADJ_secondary
+
+- type: marking
+  id: NovaEarCobrahood
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cobrahood_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cobrahood_ADJ_secondary
+
+- type: marking
+  id: NovaEarCow
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: cow
+
+- type: marking
+  id: NovaEarDeer
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: deer
+
+- type: marking
+  id: NovaEarDeer2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: deer2
+
+- type: marking
+  id: NovaEarDeerear
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: deerear_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: deerear_secondary
+
+- type: marking
+  id: NovaEarEevee
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: eevee_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: eevee_secondary
+
+- type: marking
+  id: NovaEarEeveeAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: eevee_alt_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: eevee_alt_secondary
+
+- type: marking
+  id: NovaEarElephant
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elephant
+
+- type: marking
+  id: NovaEarElf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elf
+
+- type: marking
+  id: NovaEarElfbroad
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elfbroad
+
+- type: marking
+  id: NovaEarElfbroadreverse
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elfbroadreverse
+
+- type: marking
+  id: NovaEarElflonger
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elflonger
+
+- type: marking
+  id: NovaEarElfwide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: elfwide
+
+- type: marking
+  id: NovaEarExtraSabresune
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: extra_sabresune
+
+- type: marking
+  id: NovaEarFennec
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fennec_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fennec_secondary
+
+- type: marking
+  id: NovaEarFish
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fish
+
+- type: marking
+  id: NovaEarFloppy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: floppy_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: floppy_secondary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: floppy_tertiary
+
+- type: marking
+  id: NovaEarFoldAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fold_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarFourEars2
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: four_ears_2_FRONT_secondary
+
+- type: marking
+  id: NovaEarFox
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fox_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: fox_secondary
+
+- type: marking
+  id: NovaEarGeniculate
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: geniculate
+
+- type: marking
+  id: NovaEarHammerhead
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: hammerhead_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: hammerhead_FRONT_secondary
+
+- type: marking
+  id: NovaEarHawk
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: hawk_primary
+
+- type: marking
+  id: NovaEarHorn1
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: horn1_FRONT
+
+- type: marking
+  id: NovaEarJackal
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: jackal_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: jackal_FRONT_secondary
+
+- type: marking
+  id: NovaEarJellyfish
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: jellyfish
+
+- type: marking
+  id: NovaEarKangaroo
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: kangaroo_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: kangaroo_secondary
+
+- type: marking
+  id: NovaEarLab
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: lab
+
+- type: marking
+  id: NovaEarLunasune
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: lunasune_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: lunasune_secondary
+
+- type: marking
+  id: NovaEarLynxAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: lynx_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarMEarsinnerBigwolfinner
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: m_earsinner_bigwolfinner_FRONT
+
+- type: marking
+  id: NovaEarMEarsinnerBigwolfinnerdark
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: m_earsinner_bigwolfinnerdark_FRONT
+
+- type: marking
+  id: NovaEarMHornsGuilmon
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: m_horns_guilmon
+
+- type: marking
+  id: NovaEarMiqoAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: miqo_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarMiqote
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: miqote_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: miqote_secondary
+
+- type: marking
+  id: NovaEarMouse
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: mouse_FRONT_tertiary
+
+- type: marking
+  id: NovaEarMouseTwo
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: mouse_two_FRONT_tertiary
+
+- type: marking
+  id: NovaEarMurid
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: murid_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: murid_secondary
+
+- type: marking
+  id: NovaEarOtie
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: otie_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: otie_secondary
+
+- type: marking
+  id: NovaEarPede
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: pede_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: pede_secondary
+
+- type: marking
+  id: NovaEarPerky
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: perky_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: perky_secondary
+
+- type: marking
+  id: NovaEarPossum
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: possum_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: possum_secondary
+
+- type: marking
+  id: NovaEarProtogen
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: protogen_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: protogen_FRONT_secondary
+
+- type: marking
+  id: NovaEarProtogenAdjs
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: protogen_ADJs_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: protogen_ADJs_secondary
+
+- type: marking
+  id: NovaEarRabbit
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbit_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbit_secondary
+
+- type: marking
+  id: NovaEarRabbitalt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbitalt_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbitalt_secondary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbitalt_tertiary
+
+- type: marking
+  id: NovaEarRabbitlop
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbitlop_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: rabbitlop_secondary
+
+- type: marking
+  id: NovaEarRaccoon
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: raccoon_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: raccoon_secondary
+
+- type: marking
+  id: NovaEarRoundAlt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: round_alt_FRONT_secondary
+
+- type: marking
+  id: NovaEarRoyalAntenna
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: royal_antenna
+
+- type: marking
+  id: NovaEarSabresune
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: sabresune_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: sabresune_secondary
+
+- type: marking
+  id: NovaEarSergal
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: sergal_FRONT_secondary
+
+- type: marking
+  id: NovaEarSetaceous
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: setaceous
+
+- type: marking
+  id: NovaEarSetaceousm
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: setaceousm
+
+- type: marking
+  id: NovaEarShadekin
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekin_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekin_secondary
+
+- type: marking
+  id: NovaEarShadekinbandleft
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbandleft_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbandleft_secondary
+
+- type: marking
+  id: NovaEarShadekinbandright
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbandright_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbandright_secondary
+
+- type: marking
+  id: NovaEarShadekinbands
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbands_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbands_secondary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinbands_tertiary
+
+- type: marking
+  id: NovaEarShadekinfluffy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffy_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffy_secondary
+
+- type: marking
+  id: NovaEarShadekinfluffyrings
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyrings_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyrings_secondary
+
+- type: marking
+  id: NovaEarShadekinfluffyringsleft
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyringsleft_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyringsleft_secondary
+
+- type: marking
+  id: NovaEarShadekinfluffyringsright
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyringsright_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinfluffyringsright_secondary
+
+- type: marking
+  id: NovaEarShadekinrings
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinrings_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinrings_secondary
+
+- type: marking
+  id: NovaEarShadekinringsleft
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinringsleft_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinringsleft_secondary
+
+- type: marking
+  id: NovaEarShadekinringsright
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinringsright_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinringsright_secondary
+
+- type: marking
+  id: NovaEarShadekinsaggy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinsaggy_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinsaggy_secondary
+
+- type: marking
+  id: NovaEarShadekinshort
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshort_primary
+
+- type: marking
+  id: NovaEarShadekinshortrings
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortrings_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortrings_secondary
+
+- type: marking
+  id: NovaEarShadekinshortringsleft
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortringsleft_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortringsleft_secondary
+
+- type: marking
+  id: NovaEarShadekinshortringsright
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortringsright_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinshortringsright_secondary
+
+- type: marking
+  id: NovaEarShadekinsmooth
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinsmooth_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: shadekinsmooth_secondary
+
+- type: marking
+  id: NovaEarSkunk
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: skunk_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: skunk_secondary
+
+- type: marking
+  id: NovaEarSquirrel
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: squirrel_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: squirrel_secondary
+
+- type: marking
+  id: NovaEarStraightAntenna
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: straight_antenna
+
+- type: marking
+  id: NovaEarTeshariFeathersBackstrafe
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_backstrafe
+
+- type: marking
+  id: NovaEarTeshariFeathersBushy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_bushy_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_bushy_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersDroopy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_droopy_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_droopy_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersLongway
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_longway_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersMane
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_mane_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersManeless
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_maneless_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersMohawk
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_mohawk_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_mohawk_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersMushroom
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_mushroom
+
+- type: marking
+  id: NovaEarTeshariFeathersPointy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_pointy_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersPonytail
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_ponytail_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_ponytail_ADJ_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersRegalt
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_regalt_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersSpiky
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_spiky_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersThin
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_thin
+
+- type: marking
+  id: NovaEarTeshariFeathersThinmane
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_thinmane_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersThinmaneless
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_thinmaneless_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersTree
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_tree_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariFeathersUpright
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_feathers_upright_FRONT_secondary
+
+- type: marking
+  id: NovaEarTeshariRegular
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_regular_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: teshari_regular_secondary
+
+- type: marking
+  id: NovaEarWolf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  sprites:
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: wolf_primary
+  - sprite: _Nova/Mobs/Customization/ears.rsi
+    state: wolf_secondary
