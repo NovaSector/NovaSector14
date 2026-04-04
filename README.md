@@ -4,7 +4,7 @@
 
 </div>
 
-NovaSector is a furry-focused high roleplay fork of [Delta-V](https://github.com/DeltaV-Station/Delta-v), which is itself a fork of [Space Station 14](https://github.com/space-wizards/space-station-14).
+NovaSector is a roleplay-focused fork of [Delta-V](https://github.com/DeltaV-Station/Delta-v), which is itself a fork of [Space Station 14](https://github.com/space-wizards/space-station-14).
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 
