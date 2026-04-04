@@ -1,0 +1,863 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Converted from NovaSector SS13 (snouts.dmi)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "acrador_1_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_1_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_1_alt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_1_alt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_2_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_2_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_2_alt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_2_alt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_3_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_3_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_3_alt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_3_alt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_4_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_4_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_4_alt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_4_alt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_short_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_short_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "acrador_short_alt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bigbeak_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bigbeakshort_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bird_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bird_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bird_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "birdsmall_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "birdsmall_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "birdsmall_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "boar_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "boar_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "boar_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "bovine_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bovine_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bovine_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "bug_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bug_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bug_low_eyes_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bug_low_eyes_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bug_no_ant_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bug_no_ant_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bug_no_ant_low_eyes_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bug_no_ant_low_eyes_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bug_no_eyes_ADJ",
+      "directions": 4
+    },
+    {
+      "name": "caninealt_primary",
+      "directions": 4
+    },
+    {
+      "name": "caninealt_secondary",
+      "directions": 4
+    },
+    {
+      "name": "caninealt_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "corvidbeak_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "dragonfly_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "dragonfly_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "elephant_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "elephant_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fbigbeak_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fbird_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fbird_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fbird_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fbovine_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fbovine_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fbovine_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fbug_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fbug_no_ant_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fbug_no_ant_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fbug_primary",
+      "directions": 4
+    },
+    {
+      "name": "fcorvidbeak_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fdragonfly_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fdragonfly_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "felephant_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "felephant_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fhusky_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fhusky_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "flcanid_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "flcanid_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "flcanidalt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "flcanidstripe_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "flcanidstripe_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "flcanidstripealt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "flcanidstripealt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fmandibles1_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fotie_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fotie_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fotiesmile_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fotiesmile_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fpede_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fpede_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "frhino_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "frhino_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "frhino_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "frodent_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fround_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "froundlight_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "fscanid_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fscanid_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fscanid_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt2_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt2_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt3_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt3_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt3_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fscanidalt_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fsergal_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fsergal_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fshark_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fsharp_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "fsharplight_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "fskulldog_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fskulldog_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fskulldog_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fskulldogalt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fskulldogalt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fskulldogalt_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "ftoucan_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "ftoucan_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fwah_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fwah_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fwah_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fwahalt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fwahalt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fwolf_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "fwolf_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fwolfalt_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "hanubus_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hanubus_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hhorse_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hhorse_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hjackal_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hjackal_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hookbeak_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hookbeakbig_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hpanda_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hpanda_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hshark_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hshark_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hshark_eyes_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hshark_eyes_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hshark_eyes_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "hspots_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hspots_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "husky_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "husky_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hzebra_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "hzebra_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lcanid_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "lcanid_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lcanidalt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "lcanidstripe_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "lcanidstripe_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lcanidstripealt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "lcanidstripealt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "leporid_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "leporid_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "mandibles1_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "ntajaran_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "ntajaran_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "otie_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "otie_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "otiesmile_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "otiesmile_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "otter_primary",
+      "directions": 4
+    },
+    {
+      "name": "otter_secondary",
+      "directions": 4
+    },
+    {
+      "name": "pede_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "pede_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "pig_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "pig_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "rat_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "rat_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "rhino_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "rhino_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "rhino_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "rodent_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "round_ADJ",
+      "directions": 4
+    },
+    {
+      "name": "roundlight_ADJ",
+      "directions": 4
+    },
+    {
+      "name": "scanid_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "scanid_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "scanid_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt2_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt2_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt3_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt3_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt3_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "scanidalt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "sergal_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "sergal_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shark_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "sharkblubber_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "sharkblubber_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "sharp_ADJ",
+      "directions": 4
+    },
+    {
+      "name": "sharplight_ADJ",
+      "directions": 4
+    },
+    {
+      "name": "skulldog_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "skulldog_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "skulldog_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "skulldogalt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "skulldogalt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "skulldogalt_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "slimbeak_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "slimbeakalt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "slimbeakshort_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "snaggletooth_primary",
+      "directions": 4
+    },
+    {
+      "name": "snaggletooth_secondary",
+      "directions": 4
+    },
+    {
+      "name": "snaggletooth_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "stubby_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "stubby_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "toucan_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "toucan_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "wah_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "wah_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "wah_ADJ_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "wahalt_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "wahalt_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "wolf_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "wolf_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "wolfalt_ADJ_primary",
+      "directions": 4
+    }
+  ]
+}

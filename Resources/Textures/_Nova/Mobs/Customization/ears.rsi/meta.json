@@ -1,0 +1,799 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Converted from NovaSector SS13 (ears.dmi)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "antenna_fuzzball_secondary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_fuzzball_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_fuzzballv2_primary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_fuzzballv2_secondary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_simple1_primary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_simple1v2_primary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_simple2_primary",
+      "directions": 4
+    },
+    {
+      "name": "antenna_simple2v2_primary",
+      "directions": 4
+    },
+    {
+      "name": "axolotl",
+      "directions": 4
+    },
+    {
+      "name": "basic_antenna",
+      "directions": 4
+    },
+    {
+      "name": "bat_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "bat_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bear",
+      "directions": 4
+    },
+    {
+      "name": "big_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "big_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "bigwolf_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bigwolf_primary",
+      "directions": 4
+    },
+    {
+      "name": "bigwolfdark_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bigwolfdark_primary",
+      "directions": 4
+    },
+    {
+      "name": "bigwolfinner",
+      "directions": 4
+    },
+    {
+      "name": "bigwolfinnerdark",
+      "directions": 4
+    },
+    {
+      "name": "bunny_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "bunny_primary",
+      "directions": 4
+    },
+    {
+      "name": "bunnyalt_primary",
+      "directions": 4
+    },
+    {
+      "name": "bunnyalt_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alert_primary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alert_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alt_underhair_primary",
+      "directions": 4
+    },
+    {
+      "name": "cat_alt_underhair_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cobraears_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "cobraears_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cobrahood_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "cobrahood_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "cow",
+      "directions": 4
+    },
+    {
+      "name": "deer",
+      "directions": 4
+    },
+    {
+      "name": "deer2",
+      "directions": 4
+    },
+    {
+      "name": "deerear_primary",
+      "directions": 4
+    },
+    {
+      "name": "deerear_secondary",
+      "directions": 4
+    },
+    {
+      "name": "eevee_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "eevee_alt_secondary",
+      "directions": 4
+    },
+    {
+      "name": "eevee_primary",
+      "directions": 4
+    },
+    {
+      "name": "eevee_secondary",
+      "directions": 4
+    },
+    {
+      "name": "elephant",
+      "directions": 4
+    },
+    {
+      "name": "elf",
+      "directions": 4
+    },
+    {
+      "name": "elfbroad",
+      "directions": 4
+    },
+    {
+      "name": "elfbroadreverse",
+      "directions": 4
+    },
+    {
+      "name": "elflonger",
+      "directions": 4
+    },
+    {
+      "name": "elfwide",
+      "directions": 4
+    },
+    {
+      "name": "extra_sabresune",
+      "directions": 4
+    },
+    {
+      "name": "fennec_primary",
+      "directions": 4
+    },
+    {
+      "name": "fennec_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fish",
+      "directions": 4
+    },
+    {
+      "name": "floppy_primary",
+      "directions": 4
+    },
+    {
+      "name": "floppy_secondary",
+      "directions": 4
+    },
+    {
+      "name": "floppy_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "fold_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "fold_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "four_ears_2_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "four_ears_2_primary",
+      "directions": 4
+    },
+    {
+      "name": "fox_primary",
+      "directions": 4
+    },
+    {
+      "name": "fox_secondary",
+      "directions": 4
+    },
+    {
+      "name": "geniculate",
+      "directions": 4
+    },
+    {
+      "name": "hammerhead_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "hammerhead_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "hawk_primary",
+      "directions": 4
+    },
+    {
+      "name": "horn1_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "jackal_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "jackal_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "jellyfish",
+      "directions": 4
+    },
+    {
+      "name": "kangaroo_primary",
+      "directions": 4
+    },
+    {
+      "name": "kangaroo_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lab",
+      "directions": 4
+    },
+    {
+      "name": "lunasune_primary",
+      "directions": 4
+    },
+    {
+      "name": "lunasune_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lynx_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "lynx_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "m_earsinner_bigwolfinner_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "m_earsinner_bigwolfinnerdark_FRONT",
+      "directions": 4
+    },
+    {
+      "name": "m_horns_guilmon",
+      "directions": 4
+    },
+    {
+      "name": "miqo_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "miqo_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "miqote_primary",
+      "directions": 4
+    },
+    {
+      "name": "miqote_secondary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_primary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_secondary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_two_FRONT_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_two_primary",
+      "directions": 4
+    },
+    {
+      "name": "mouse_two_secondary",
+      "directions": 4
+    },
+    {
+      "name": "murid_primary",
+      "directions": 4
+    },
+    {
+      "name": "murid_secondary",
+      "directions": 4
+    },
+    {
+      "name": "otie_primary",
+      "directions": 4
+    },
+    {
+      "name": "otie_secondary",
+      "directions": 4
+    },
+    {
+      "name": "pede_primary",
+      "directions": 4
+    },
+    {
+      "name": "pede_secondary",
+      "directions": 4
+    },
+    {
+      "name": "perky_primary",
+      "directions": 4
+    },
+    {
+      "name": "perky_secondary",
+      "directions": 4
+    },
+    {
+      "name": "possum_primary",
+      "directions": 4
+    },
+    {
+      "name": "possum_secondary",
+      "directions": 4
+    },
+    {
+      "name": "protogen_ADJs_primary",
+      "directions": 4
+    },
+    {
+      "name": "protogen_ADJs_secondary",
+      "directions": 4
+    },
+    {
+      "name": "protogen_FRONT_primary",
+      "directions": 4
+    },
+    {
+      "name": "protogen_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "rabbit_primary",
+      "directions": 4
+    },
+    {
+      "name": "rabbit_secondary",
+      "directions": 4
+    },
+    {
+      "name": "rabbitalt_primary",
+      "directions": 4
+    },
+    {
+      "name": "rabbitalt_secondary",
+      "directions": 4
+    },
+    {
+      "name": "rabbitalt_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "rabbitlop_primary",
+      "directions": 4
+    },
+    {
+      "name": "rabbitlop_secondary",
+      "directions": 4
+    },
+    {
+      "name": "raccoon_primary",
+      "directions": 4
+    },
+    {
+      "name": "raccoon_secondary",
+      "directions": 4
+    },
+    {
+      "name": "round_alt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "round_alt_primary",
+      "directions": 4
+    },
+    {
+      "name": "royal_antenna",
+      "directions": 4
+    },
+    {
+      "name": "sabresune_primary",
+      "directions": 4
+    },
+    {
+      "name": "sabresune_secondary",
+      "directions": 4
+    },
+    {
+      "name": "sergal_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "sergal_primary",
+      "directions": 4
+    },
+    {
+      "name": "setaceous",
+      "directions": 4
+    },
+    {
+      "name": "setaceousm",
+      "directions": 4
+    },
+    {
+      "name": "shadekin_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekin_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbandleft_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbandleft_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbandright_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbandright_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbands_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbands_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinbands_tertiary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffy_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffy_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyrings_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyrings_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyringsleft_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyringsleft_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyringsright_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinfluffyringsright_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinrings_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinrings_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinringsleft_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinringsleft_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinringsright_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinringsright_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinsaggy_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinsaggy_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshort_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortrings_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortrings_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortringsleft_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortringsleft_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortringsright_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinshortringsright_secondary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinsmooth_primary",
+      "directions": 4
+    },
+    {
+      "name": "shadekinsmooth_secondary",
+      "directions": 4
+    },
+    {
+      "name": "skunk_primary",
+      "directions": 4
+    },
+    {
+      "name": "skunk_secondary",
+      "directions": 4
+    },
+    {
+      "name": "squirrel_primary",
+      "directions": 4
+    },
+    {
+      "name": "squirrel_secondary",
+      "directions": 4
+    },
+    {
+      "name": "straight_antenna",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_backstrafe",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_bushy_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_bushy_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_droopy_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_droopy_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_longway_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_longway_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_mane_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_mane_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_maneless_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_maneless_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_mohawk_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_mohawk_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_mushroom",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_pointy_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_pointy_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_ponytail_ADJ_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_ponytail_ADJ_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_regalt_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_regalt_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_spiky_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_spiky_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_thin",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_thinmane_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_thinmane_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_thinmaneless_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_thinmaneless_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_tree_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_tree_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_upright_FRONT_secondary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_feathers_upright_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_regular_primary",
+      "directions": 4
+    },
+    {
+      "name": "teshari_regular_secondary",
+      "directions": 4
+    },
+    {
+      "name": "wolf_primary",
+      "directions": 4
+    },
+    {
+      "name": "wolf_secondary",
+      "directions": 4
+    }
+  ]
+}

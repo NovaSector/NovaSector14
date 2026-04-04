@@ -1,0 +1,1079 @@
+- type: marking
+  id: NovaSnoutAcrador1
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_1_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_1_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutAcrador1Alt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_1_alt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_1_alt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutAcrador2
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_2_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_2_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutAcrador2Alt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_2_alt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_2_alt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutAcrador3
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_3_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_3_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutAcrador3Alt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_3_alt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_3_alt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutAcrador4
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_4_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_4_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutAcrador4Alt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_4_alt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_4_alt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutAcradorShort
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_short_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_short_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutAcradorShortAlt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: acrador_short_alt_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutBigbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bigbeak_ADJ_primary
+
+- type: marking
+  id: NovaSnoutBigbeakshort
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bigbeakshort_ADJ_primary
+
+- type: marking
+  id: NovaSnoutBird
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bird_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bird_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bird_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutBirdsmall
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: birdsmall_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: birdsmall_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: birdsmall_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutBoar
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: boar_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: boar_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: boar_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutBovine
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bovine_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bovine_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bovine_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutBug
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_ADJ_primary
+
+- type: marking
+  id: NovaSnoutBugLowEyes
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_low_eyes_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_low_eyes_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutBugNoAnt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_no_ant_ADJ_primary
+
+- type: marking
+  id: NovaSnoutBugNoAntLowEyes
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_no_ant_low_eyes_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_no_ant_low_eyes_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutBugNoEyes
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: bug_no_eyes_ADJ
+
+- type: marking
+  id: NovaSnoutCaninealt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: caninealt_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: caninealt_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: caninealt_tertiary
+
+- type: marking
+  id: NovaSnoutCorvidbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: corvidbeak_ADJ_primary
+
+- type: marking
+  id: NovaSnoutDragonfly
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: dragonfly_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: dragonfly_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutElephant
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: elephant_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: elephant_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutFbigbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbigbeak_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFbird
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbird_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbird_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbird_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFbovine
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbovine_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbovine_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbovine_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFbug
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbug_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFbugNoAnt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbug_no_ant_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fbug_no_ant_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFcorvidbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fcorvidbeak_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFdragonfly
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fdragonfly_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fdragonfly_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFelephant
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: felephant_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: felephant_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFhusky
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fhusky_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fhusky_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFlcanid
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanid_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanid_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFlcanidalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanidalt_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFlcanidstripe
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanidstripe_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanidstripe_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFlcanidstripealt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanidstripealt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: flcanidstripealt_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFmandibles1
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fmandibles1_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFotie
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fotie_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fotie_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFotiesmile
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fotiesmile_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fotiesmile_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFpede
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fpede_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fpede_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFrhino
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: frhino_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: frhino_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: frhino_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFrodent
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: frodent_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFround
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fround_FRONT
+
+- type: marking
+  id: NovaSnoutFroundlight
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: froundlight_FRONT
+
+- type: marking
+  id: NovaSnoutFscanid
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanid_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanid_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanid_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFscanidalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFscanidalt2
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt2_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt2_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFscanidalt3
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt3_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt3_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fscanidalt3_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFsergal
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fsergal_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fsergal_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFshark
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fshark_FRONT_primary
+
+- type: marking
+  id: NovaSnoutFsharp
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fsharp_FRONT
+
+- type: marking
+  id: NovaSnoutFsharplight
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fsharplight_FRONT
+
+- type: marking
+  id: NovaSnoutFskulldog
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldog_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldog_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldog_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFskulldogalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldogalt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldogalt_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fskulldogalt_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFtoucan
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: ftoucan_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: ftoucan_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFwah
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwah_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwah_FRONT_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwah_FRONT_tertiary
+
+- type: marking
+  id: NovaSnoutFwahalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwahalt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwahalt_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFwolf
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwolf_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwolf_FRONT_secondary
+
+- type: marking
+  id: NovaSnoutFwolfalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: fwolfalt_FRONT_primary
+
+- type: marking
+  id: NovaSnoutHanubus
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hanubus_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hanubus_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHhorse
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hhorse_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hhorse_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHjackal
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hjackal_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hjackal_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHookbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hookbeak_ADJ_primary
+
+- type: marking
+  id: NovaSnoutHookbeakbig
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hookbeakbig_ADJ_primary
+
+- type: marking
+  id: NovaSnoutHpanda
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hpanda_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hpanda_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHshark
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hshark_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hshark_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHsharkEyes
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hshark_eyes_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hshark_eyes_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hshark_eyes_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutHspots
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hspots_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hspots_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHusky
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: husky_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: husky_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutHzebra
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hzebra_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: hzebra_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutLcanid
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanid_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanid_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutLcanidalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanidalt_ADJ_primary
+
+- type: marking
+  id: NovaSnoutLcanidstripe
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanidstripe_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanidstripe_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutLcanidstripealt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanidstripealt_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: lcanidstripealt_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutLeporid
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: leporid_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: leporid_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutMandibles1
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: mandibles1_FRONT_primary
+
+- type: marking
+  id: NovaSnoutNtajaran
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: ntajaran_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: ntajaran_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutOtie
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otie_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otie_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutOtiesmile
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otiesmile_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otiesmile_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutOtter
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otter_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: otter_secondary
+
+- type: marking
+  id: NovaSnoutPede
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: pede_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: pede_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutPig
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: pig_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: pig_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutRat
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rat_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rat_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutRhino
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rhino_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rhino_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rhino_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutRodent
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: rodent_ADJ_primary
+
+- type: marking
+  id: NovaSnoutRound
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: round_ADJ
+
+- type: marking
+  id: NovaSnoutRoundlight
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: roundlight_ADJ
+
+- type: marking
+  id: NovaSnoutScanid
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanid_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanid_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanid_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutScanidalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutScanidalt2
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt2_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt2_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutScanidalt3
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt3_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt3_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: scanidalt3_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutSergal
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sergal_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sergal_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutShark
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: shark_ADJ_primary
+
+- type: marking
+  id: NovaSnoutSharkblubber
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sharkblubber_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sharkblubber_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutSharp
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sharp_ADJ
+
+- type: marking
+  id: NovaSnoutSharplight
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: sharplight_ADJ
+
+- type: marking
+  id: NovaSnoutSkulldog
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldog_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldog_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldog_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutSkulldogalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldogalt_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldogalt_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: skulldogalt_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutSlimbeak
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: slimbeak_ADJ_primary
+
+- type: marking
+  id: NovaSnoutSlimbeakalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: slimbeakalt_ADJ_primary
+
+- type: marking
+  id: NovaSnoutSlimbeakshort
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: slimbeakshort_ADJ_primary
+
+- type: marking
+  id: NovaSnoutSnaggletooth
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: snaggletooth_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: snaggletooth_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: snaggletooth_tertiary
+
+- type: marking
+  id: NovaSnoutStubby
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: stubby_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: stubby_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutToucan
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: toucan_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: toucan_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutWah
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wah_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wah_ADJ_secondary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wah_ADJ_tertiary
+
+- type: marking
+  id: NovaSnoutWahalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wahalt_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wahalt_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutWolf
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wolf_ADJ_primary
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wolf_ADJ_secondary
+
+- type: marking
+  id: NovaSnoutWolfalt
+  bodyPart: Snout
+  markingCategory: Snout
+  sprites:
+  - sprite: _Nova/Mobs/Customization/snouts.rsi
+    state: wolfalt_ADJ_primary

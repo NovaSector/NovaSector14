@@ -1,0 +1,1753 @@
+- type: marking
+  id: NovaTailTail9sune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_9sune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_9sune_secondary
+
+- type: marking
+  id: NovaTailTailAcrador1
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_1_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_1_secondary
+
+- type: marking
+  id: NovaTailTailAcrador2
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_2_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_2_secondary
+
+- type: marking
+  id: NovaTailTailAcrador3
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_3_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_3_secondary
+
+- type: marking
+  id: NovaTailTailAcrador4
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_4_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_4_secondary
+
+- type: marking
+  id: NovaTailTailAcrador5
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_5_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_acrador_5_secondary
+
+- type: marking
+  id: NovaTailTailAkula
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_akula_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_akula_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_akula_tertiary
+
+- type: marking
+  id: NovaTailTailAustralianshepherd
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_australianshepherd_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_australianshepherd_secondary
+
+- type: marking
+  id: NovaTailTailAvian1
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_avian1_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_avian1_secondary
+
+- type: marking
+  id: NovaTailTailAvian2
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_avian2_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_avian2_secondary
+
+- type: marking
+  id: NovaTailTailAxolotl
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_axolotl_primary
+
+- type: marking
+  id: NovaTailTailBatl
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_batl_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_batl_secondary
+
+- type: marking
+  id: NovaTailTailBats
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_bats_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_bats_secondary
+
+- type: marking
+  id: NovaTailTailBee
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_bee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_bee_secondary
+
+- type: marking
+  id: NovaTailTailBlackjackal
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_blackjackal_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_blackjackal_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_blackjackal_tertiary
+
+- type: marking
+  id: NovaTailTailCable
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_cable_primary
+
+- type: marking
+  id: NovaTailTailCat
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_cat
+
+- type: marking
+  id: NovaTailTailCatbig
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_catbig
+
+- type: marking
+  id: NovaTailTailChemlight
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_chemlight_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailChemlightAlt
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_chemlight_alt_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailCow
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_cow_primary
+
+- type: marking
+  id: NovaTailTailCrow
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_crow_primary
+
+- type: marking
+  id: NovaTailTailDatashark
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_datashark_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailDeer
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_deer_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_deer_secondary
+
+- type: marking
+  id: NovaTailTailDeerTwo
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_deer_two
+
+- type: marking
+  id: NovaTailTailDoublekitsune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_doublekitsune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_doublekitsune_secondary
+
+- type: marking
+  id: NovaTailTailDtiger
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_dtiger
+
+- type: marking
+  id: NovaTailTailEevee
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_eevee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_eevee_secondary
+
+- type: marking
+  id: NovaTailTailFennec
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fennec_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fennec_secondary
+
+- type: marking
+  id: NovaTailTailFish
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fish_primary
+
+- type: marking
+  id: NovaTailTailFox
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fox_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fox_secondary
+
+- type: marking
+  id: NovaTailTailFox2
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fox2_primary
+
+- type: marking
+  id: NovaTailTailFox3
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fox3_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_fox3_secondary
+
+- type: marking
+  id: NovaTailTailFoxann
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_foxann_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_foxann_secondary
+
+- type: marking
+  id: NovaTailTailGecko
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_gecko_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_gecko_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_gecko_tertiary
+
+- type: marking
+  id: NovaTailTailGuilmon
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_guilmon_primary
+
+- type: marking
+  id: NovaTailTailHawk
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_hawk_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_hawk_secondary
+
+- type: marking
+  id: NovaTailTailHorse
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_horse
+
+- type: marking
+  id: NovaTailTailHusk
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_husk_primary
+
+- type: marking
+  id: NovaTailTailHusky
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_husky_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_husky_secondary
+
+- type: marking
+  id: NovaTailTailInsect
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_insect_primary
+
+- type: marking
+  id: NovaTailTailInsectoid
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_insectoid
+
+- type: marking
+  id: NovaTailTailInsectunder
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_insectunder_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_insectunder_secondary
+
+- type: marking
+  id: NovaTailTailKangaroo
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_kangaroo_primary
+
+- type: marking
+  id: NovaTailTailKitsuann
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_kitsuann_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_kitsuann_secondary
+
+- type: marking
+  id: NovaTailTailKitsune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_kitsune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_kitsune_secondary
+
+- type: marking
+  id: NovaTailTailLab
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_lab_primary
+
+- type: marking
+  id: NovaTailTailLeopard
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_leopard_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_leopard_tertiary
+
+- type: marking
+  id: NovaTailTailLtiger
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_ltiger
+
+- type: marking
+  id: NovaTailTailLunasune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_lunasune
+
+- type: marking
+  id: NovaTailTailMonkey
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_monkey
+
+- type: marking
+  id: NovaTailTailMonkeyColorable
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_monkey_colorable
+
+- type: marking
+  id: NovaTailTailMurid
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_murid_primary
+
+- type: marking
+  id: NovaTailTailMuridTwo
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_murid_two_primary
+
+- type: marking
+  id: NovaTailTailOrca
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_orca_primary
+
+- type: marking
+  id: NovaTailTailOtie
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_otie_primary
+
+- type: marking
+  id: NovaTailTailOtter
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_otter_primary
+
+- type: marking
+  id: NovaTailTailPeacock
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_peacock_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_peacock_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_peacock_tertiary
+
+- type: marking
+  id: NovaTailTailPede
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_pede_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_pede_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_pede_tertiary
+
+- type: marking
+  id: NovaTailTailPlugtail
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_plugtail_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_plugtail_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_plugtail_tertiary
+
+- type: marking
+  id: NovaTailTailQueenbee
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_queenbee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_queenbee_secondary
+
+- type: marking
+  id: NovaTailTailQueeninsect
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_queeninsect_primary
+
+- type: marking
+  id: NovaTailTailRabbit
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_rabbit_primary
+
+- type: marking
+  id: NovaTailTailRabbitAlt
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_rabbit_alt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_rabbit_alt_FRONT_secondary
+
+- type: marking
+  id: NovaTailTailRaccoon
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_raccoon_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_raccoon_secondary
+
+- type: marking
+  id: NovaTailTailRaptor
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_raptor_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_raptor_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_raptor_tertiary
+
+- type: marking
+  id: NovaTailTailRattlesnake
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_rattlesnake_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_rattlesnake_secondary
+
+- type: marking
+  id: NovaTailTailReptileslim
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_reptileslim
+
+- type: marking
+  id: NovaTailTailSabresune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sabresune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sabresune_secondary
+
+- type: marking
+  id: NovaTailTailScorptail
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_scorptail_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_scorptail_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_scorptail_tertiary
+
+- type: marking
+  id: NovaTailTailSegmentedtail
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_segmentedtail_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_segmentedtail_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_segmentedtail_tertiary
+
+- type: marking
+  id: NovaTailTailSergal
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sergal_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sergal_secondary
+
+- type: marking
+  id: NovaTailTailSevenkitsune
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sevenkitsune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sevenkitsune_secondary
+
+- type: marking
+  id: NovaTailTailShadekin
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_shadekin_primary
+
+- type: marking
+  id: NovaTailTailShadekinshort
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_shadekinshort_primary
+
+- type: marking
+  id: NovaTailTailShark
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_shark_primary
+
+- type: marking
+  id: NovaTailTailSharknofin
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_sharknofin_primary
+
+- type: marking
+  id: NovaTailTailShepherd
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_shepherd_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_shepherd_tertiary
+
+- type: marking
+  id: NovaTailTailShort
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_short
+
+- type: marking
+  id: NovaTailTailShort2tone
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_short2tone_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_short2tone_secondary
+
+- type: marking
+  id: NovaTailTailSkunk
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_skunk_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_skunk_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_skunk_tertiary
+
+- type: marking
+  id: NovaTailTailSmooth
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_smooth
+
+- type: marking
+  id: NovaTailTailSnakedual
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakedual_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakedual_secondary
+
+- type: marking
+  id: NovaTailTailSnakestripe
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakestripe_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakestripe_secondary
+
+- type: marking
+  id: NovaTailTailSnakestripealt
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakestripealt_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakestripealt_secondary
+
+- type: marking
+  id: NovaTailTailSnaketail
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snaketail
+
+- type: marking
+  id: NovaTailTailSnakeunder
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakeunder_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_snakeunder_secondary
+
+- type: marking
+  id: NovaTailTailSpade
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_spade_primary
+
+- type: marking
+  id: NovaTailTailSpikes
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_spikes
+
+- type: marking
+  id: NovaTailTailSquirrel
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_squirrel
+
+- type: marking
+  id: NovaTailTailStraighttail
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_straighttail_primary
+
+- type: marking
+  id: NovaTailTailStripe
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_stripe_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_stripe_secondary
+
+- type: marking
+  id: NovaTailTailTailmaw
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tailmaw
+
+- type: marking
+  id: NovaTailTailTailmawwag
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tailmawwag
+
+- type: marking
+  id: NovaTailTailTailmawwagStripedhead
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tailmawwag_stripedhead_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tailmawwag_stripedhead_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tailmawwag_stripedhead_tertiary
+
+- type: marking
+  id: NovaTailTailTentacle
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tentacle_primary
+
+- type: marking
+  id: NovaTailTailTeshariDefault
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_teshari_default_BEHIND_tertiary
+
+- type: marking
+  id: NovaTailTailTeshariFluffy
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_teshari_fluffy_BEHIND_tertiary
+
+- type: marking
+  id: NovaTailTailTeshariThin
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_teshari_thin_BEHIND_tertiary
+
+- type: marking
+  id: NovaTailTailThreecat
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_threecat_primary
+
+- type: marking
+  id: NovaTailTailTiger
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger_tertiary
+
+- type: marking
+  id: NovaTailTailTiger2
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger2_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger2_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_tiger2_tertiary
+
+- type: marking
+  id: NovaTailTailTwocat
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_twocat_primary
+
+- type: marking
+  id: NovaTailTailWah
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_wah_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_wah_secondary
+
+- type: marking
+  id: NovaTailTailWolf
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_wolf
+
+- type: marking
+  id: NovaTailTailZorgoia
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_zorgoia_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_zorgoia_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: tail_zorgoia_tertiary
+
+# Animated (wagging) tail variants - triggered by wag emote
+
+- type: marking
+  id: NovaTailTail9suneAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_9sune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_9sune_secondary
+
+- type: marking
+  id: NovaTailTailAcrador4Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_acrador_4_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_acrador_4_secondary
+
+- type: marking
+  id: NovaTailTailAcrador5Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_acrador_5_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_acrador_5_secondary
+
+- type: marking
+  id: NovaTailTailAustralianshepherdAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_australianshepherd_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_australianshepherd_secondary
+
+- type: marking
+  id: NovaTailTailAvian1Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_avian1_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_avian1_secondary
+
+- type: marking
+  id: NovaTailTailAvian2Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_avian2_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_avian2_secondary
+
+- type: marking
+  id: NovaTailTailAxolotlAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_axolotl_primary
+
+- type: marking
+  id: NovaTailTailBatlAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_batl_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_batl_secondary
+
+- type: marking
+  id: NovaTailTailBatsAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_bats_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_bats_secondary
+
+- type: marking
+  id: NovaTailTailBeeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_bee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_bee_secondary
+
+- type: marking
+  id: NovaTailTailCableAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_cable_primary
+
+- type: marking
+  id: NovaTailTailCatbigAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_catbig
+
+- type: marking
+  id: NovaTailTailChemlightAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_tertiary
+
+- type: marking
+  id: NovaTailTailChemlightBehindAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailChemlightAltAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_alt_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_alt_tertiary
+
+- type: marking
+  id: NovaTailTailChemlightAltBehindAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_chemlight_alt_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailCowAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_cow_primary
+
+- type: marking
+  id: NovaTailTailCrowAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_crow_primary
+
+- type: marking
+  id: NovaTailTailDatasharkAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_datashark_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_datashark_tertiary
+
+- type: marking
+  id: NovaTailTailDatasharkBehindAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_datashark_BEHIND_secondary
+
+- type: marking
+  id: NovaTailTailDeerTwoAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_deer_two
+
+- type: marking
+  id: NovaTailTailDtigerAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_dtiger
+
+- type: marking
+  id: NovaTailTailEeveeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_eevee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_eevee_secondary
+
+- type: marking
+  id: NovaTailTailFennecAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fennec_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fennec_secondary
+
+- type: marking
+  id: NovaTailTailFishAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fish_primary
+
+- type: marking
+  id: NovaTailTailFoxAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fox_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fox_secondary
+
+- type: marking
+  id: NovaTailTailFox2Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fox2_primary
+
+- type: marking
+  id: NovaTailTailFox3Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fox3_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_fox3_secondary
+
+- type: marking
+  id: NovaTailTailFoxannAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_foxann_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_foxann_secondary
+
+- type: marking
+  id: NovaTailTailGeckoAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_gecko_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_gecko_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_gecko_tertiary
+
+- type: marking
+  id: NovaTailTailGuilmonAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_guilmon_primary
+
+- type: marking
+  id: NovaTailTailHawkAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_hawk_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_hawk_secondary
+
+- type: marking
+  id: NovaTailTailHorseAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_horse
+
+- type: marking
+  id: NovaTailTailHuskyAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_husky_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_husky_secondary
+
+- type: marking
+  id: NovaTailTailInsectAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_insect_primary
+
+- type: marking
+  id: NovaTailTailKangarooAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_kangaroo_primary
+
+- type: marking
+  id: NovaTailTailKitsuannAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_kitsuann_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_kitsuann_secondary
+
+- type: marking
+  id: NovaTailTailKitsuneAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_kitsune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_kitsune_secondary
+
+- type: marking
+  id: NovaTailTailLeopardAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_leopard_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_leopard_tertiary
+
+- type: marking
+  id: NovaTailTailLtigerAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_ltiger
+
+- type: marking
+  id: NovaTailTailMonkeyAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_monkey
+
+- type: marking
+  id: NovaTailTailMonkeyColorableAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_monkey_colorable
+
+- type: marking
+  id: NovaTailTailMuridTwoAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_murid_two_primary
+
+- type: marking
+  id: NovaTailTailOrcaAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_orca_primary
+
+- type: marking
+  id: NovaTailTailOtieAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_otie_primary
+
+- type: marking
+  id: NovaTailTailPeacockAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_peacock_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_peacock_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_peacock_tertiary
+
+- type: marking
+  id: NovaTailTailPedeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_pede_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_pede_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_pede_tertiary
+
+- type: marking
+  id: NovaTailTailQueenbeeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_queenbee_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_queenbee_secondary
+
+- type: marking
+  id: NovaTailTailQueeninsectAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_queeninsect_primary
+
+- type: marking
+  id: NovaTailTailRabbitAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_rabbit_primary
+
+- type: marking
+  id: NovaTailTailRabbitAltFrontAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_rabbit_alt_FRONT_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_rabbit_alt_FRONT_secondary
+
+- type: marking
+  id: NovaTailTailRaccoonAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_raccoon_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_raccoon_secondary
+
+- type: marking
+  id: NovaTailTailRattlesnakeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_rattlesnake_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_rattlesnake_secondary
+
+- type: marking
+  id: NovaTailTailSabresuneAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_sabresune_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_sabresune_secondary
+
+- type: marking
+  id: NovaTailTailSegmentedtailAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_segmentedtail_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_segmentedtail_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_segmentedtail_tertiary
+
+- type: marking
+  id: NovaTailTailSergalAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_sergal_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_sergal_secondary
+
+- type: marking
+  id: NovaTailTailShadekinAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_shadekin_primary
+
+- type: marking
+  id: NovaTailTailShadekinshortAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_shadekinshort_primary
+
+- type: marking
+  id: NovaTailTailSharkAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_shark_primary
+
+- type: marking
+  id: NovaTailTailSharknofinAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_sharknofin_primary
+
+- type: marking
+  id: NovaTailTailShepherdAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_shepherd_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_shepherd_tertiary
+
+- type: marking
+  id: NovaTailTailShort2toneAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_short2tone_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_short2tone_secondary
+
+- type: marking
+  id: NovaTailTailSkunkAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_skunk_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_skunk_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_skunk_tertiary
+
+- type: marking
+  id: NovaTailTailSmoothAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_smooth
+
+- type: marking
+  id: NovaTailTailSnakedualAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakedual_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakedual_secondary
+
+- type: marking
+  id: NovaTailTailSnakestripeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakestripe_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakestripe_secondary
+
+- type: marking
+  id: NovaTailTailSnakestripealtAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakestripealt_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakestripealt_secondary
+
+- type: marking
+  id: NovaTailTailSnaketailAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snaketail
+
+- type: marking
+  id: NovaTailTailSnakeunderAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakeunder_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_snakeunder_secondary
+
+- type: marking
+  id: NovaTailTailSpadeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_spade_primary
+
+- type: marking
+  id: NovaTailTailSpikesAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_spikes
+
+- type: marking
+  id: NovaTailTailSquirrelAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_squirrel
+
+- type: marking
+  id: NovaTailTailStraighttailAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_straighttail_primary
+
+- type: marking
+  id: NovaTailTailStripeAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_stripe_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_stripe_secondary
+
+- type: marking
+  id: NovaTailTailTailmawwagAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tailmawwag
+
+- type: marking
+  id: NovaTailTailTailmawwagStripedheadAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tailmawwag_stripedhead_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tailmawwag_stripedhead_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tailmawwag_stripedhead_tertiary
+
+- type: marking
+  id: NovaTailTailTentacleAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tentacle_primary
+
+- type: marking
+  id: NovaTailTailThreecatAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_threecat_primary
+
+- type: marking
+  id: NovaTailTailTigerAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger_tertiary
+
+- type: marking
+  id: NovaTailTailTiger2Animated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger2_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger2_secondary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_tiger2_tertiary
+
+- type: marking
+  id: NovaTailTailTwocatAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_twocat_primary
+
+- type: marking
+  id: NovaTailTailWahAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_wah_primary
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_wah_secondary
+
+- type: marking
+  id: NovaTailTailWolfAnimated
+  bodyPart: Tail
+  markingCategory: Tail
+  sprites:
+  - sprite: _Nova/Mobs/Customization/tails.rsi
+    state: waggingtail_wolf
